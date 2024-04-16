@@ -19,11 +19,3 @@ Clone the repository and install the necessary packages.You can run each noteboo
 ## Results
 
 The results of each experiment, including the model's performance metrics, are documented in their respective notebooks. 
-
-## Contributing
-
-Contributions are welcome. Please open an issue to discuss your ideas or initiate a Pull Request with your changes.
-
-## License
-
-This project is licensed under the MIT License. See the `LICENSE` file for more details.
